@@ -1,17 +1,17 @@
 {
-  "version": "0.0.3",
-  "name": "Bugzilla Lite",
-  "description": "Mobile app for Bugzilla",
+  "version": "0.0.1",
+  "name": "Triagr",
+  "description": "Triage bugs for Mozilla",
   "launch_path": "/",
   "developer": {
     "name": "The Gaia Team",
-    "url": "https://www.bzlite.com"
+    "url": "https://github.com/fxos"
   },
   "icons": {
-    "84": "/style/icons/bzlite_84.png",
-    "126": "/style/icons/bzlite_126.png",
-    "142": "/style/icons/bzlite_142.png",
-    "189": "/style/icons/bzlite_189.png"
+    "84": "/style/icons/triagr_84.png",
+    "126": "/style/icons/triagr_126.png",
+    "142": "/style/icons/triagr_142.png",
+    "189": "/style/icons/triagr_189.png"
   },
   "activities": {
     "share": {

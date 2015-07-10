@@ -1,7 +1,6 @@
 <div class="bugPage">
 
   <header>
-    <a href="/" class="headerBtn back" data-ctx-capture="true"></a>
     <h2>Bug <span class="id"></span></h2>
     <span class="headerBtn"></span>
   </header>

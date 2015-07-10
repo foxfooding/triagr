@@ -6,10 +6,10 @@
 
   <div id="intro" class="dialog" hidden>
     <div>
-      <h2>Did you know…</h2>
-      <span>On a Firefox OS device, pressing and holding the volume down and
-        volume up keys together will save the current system logs
-        and a screenshot.</span>
+      <h2>Triage Mozilla bugs!</h2>
+      <span>You can use this tool to help us triage bugs. Studies show that just
+      moving bugs into the correct component raise the chances of a bug being
+      fixed by 80%!</span>
       <button id="intro-submit">OK</button>
     </div>
   </div>
